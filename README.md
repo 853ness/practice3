@@ -7,3 +7,4 @@
 # Make up and hair- style, maid of honor styles, choices of hair and dresses/looks
 # Entertainment- Dj, Mc, playlist, play-order
 # Videography and documentation- vid-doc, shoot-order, editing, distruibution-list
+# Budget 
